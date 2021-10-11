@@ -6,3 +6,4 @@ phases:
       - "echo Start: $(date)"
       - "sleep 20"
       - "echo End: $(date)"
+      - "exit 1"
